@@ -15,3 +15,21 @@ This project extends the mini blockchain built in Activity 1. It demonstrates:
    ```bash
    node -v
    npm -v
+
+## 🖥 Console Output
+
+### Mining 3–4 Blocks
+![Mining 3–4 blocks](screenshots/Mining Blocks.png)
+
+### Valid Chain Check
+![Valid chain = true](screenshots/Full chain - Index 1.png)
+![Valid chain = true](screenshots/Full chain - Index 2.png)
+![Valid chain = true](screenshots/Full chain - Index 2.png)
+
+### Tampered Chain Check
+![Tampered chain = false](screenshots/Tampering.png)
+
+## 📝 Reflection
+A detailed reflection on immutability and Proof-of-Work is included here:  
+[Reflection Document](Reflection/Reflection.docx)
+
