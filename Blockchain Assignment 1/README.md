@@ -18,18 +18,21 @@ This project extends the mini blockchain built in Activity 1. It demonstrates:
 
 ## 🖥 Console Output
 
+## 🖥 Console Output
+
 ### Mining 3–4 Blocks
-![Mining 3–4 blocks](screenshots/Mining Blocks.png)
+![Mining 3–4 blocks](screenshots/miningblocks.png)
 
 ### Valid Chain Check
-![Valid chain = true](screenshots/Full chain - Index 1.png)
-![Valid chain = true](screenshots/Full chain - Index 2.png)
-![Valid chain = true](screenshots/Full chain - Index 2.png)
+![Valid chain = true](screenshots/validchain1.png)
+![Valid chain = true](screenshots/validchain2.png)
+![Valid chain = true](screenshots/validchain3.png)
 
 ### Tampered Chain Check
-![Tampered chain = false](screenshots/Tampering.png)
+![Tampered chain = false](screenshots/tampering.png)
 
 ## 📝 Reflection
 A detailed reflection on immutability and Proof-of-Work is included here:  
-[Reflection Document](Reflection/Reflection.docx)
+[Reflection Document](Reflection/reflection.docx)
+
 
