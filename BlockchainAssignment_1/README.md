@@ -9,16 +9,15 @@ This project extends the mini blockchain built in Activity 1. It demonstrates:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Make sure Node.js is installed:
    ```bash
    node -v
    npm -v
 
-## 🖥 Console Output
 
-## 🖥 Console Output
+## Console Output
 
 ### Mining 3–4 Blocks
 ![Mining 3–4 blocks](screenshots/miningblocks.png)
@@ -31,8 +30,8 @@ This project extends the mini blockchain built in Activity 1. It demonstrates:
 ### Tampered Chain Check
 ![Tampered chain = false](screenshots/tampering.png)
 
-## 📝 Reflection
+## Reflection
 A detailed reflection on immutability and Proof-of-Work is included here:  
-[Reflection Document](Reflection/reflection.docx)
+[Reflection Document](reflection/reflection.docx)
 
 
